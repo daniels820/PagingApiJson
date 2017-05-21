@@ -1,0 +1,9 @@
+c:\users\doris\documents\visual studio 2017\Projects\AteraTestDaniel\AteraTestDaniel\bin\Debug\netcoreapp1.0\AteraTestDaniel.deps.json
+c:\users\doris\documents\visual studio 2017\Projects\AteraTestDaniel\AteraTestDaniel\bin\Debug\netcoreapp1.0\AteraTestDaniel.runtimeconfig.json
+c:\users\doris\documents\visual studio 2017\Projects\AteraTestDaniel\AteraTestDaniel\bin\Debug\netcoreapp1.0\AteraTestDaniel.runtimeconfig.dev.json
+c:\users\doris\documents\visual studio 2017\Projects\AteraTestDaniel\AteraTestDaniel\bin\Debug\netcoreapp1.0\AteraTestDaniel.dll
+c:\users\doris\documents\visual studio 2017\Projects\AteraTestDaniel\AteraTestDaniel\bin\Debug\netcoreapp1.0\AteraTestDaniel.pdb
+c:\users\doris\documents\visual studio 2017\Projects\AteraTestDaniel\AteraTestDaniel\obj\Debug\netcoreapp1.0\AteraTestDaniel.csprojResolveAssemblyReference.cache
+c:\users\doris\documents\visual studio 2017\Projects\AteraTestDaniel\AteraTestDaniel\obj\Debug\netcoreapp1.0\AteraTestDaniel.AssemblyInfo.cs
+c:\users\doris\documents\visual studio 2017\Projects\AteraTestDaniel\AteraTestDaniel\obj\Debug\netcoreapp1.0\AteraTestDaniel.dll
+c:\users\doris\documents\visual studio 2017\Projects\AteraTestDaniel\AteraTestDaniel\obj\Debug\netcoreapp1.0\AteraTestDaniel.pdb
