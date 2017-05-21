@@ -1,0 +1,113 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageTargetFallback>$(PackageTargetFallback);portable-net45+win8+wp8+wpa81;</PackageTargetFallback>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\css\font-awesome.css" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\css\font-awesome.min.css" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\fonts\fontawesome-webfont.woff" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\fonts\FontAwesome.otf" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\HELP-US-OUT.txt" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\animated.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\core.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\fixed-width.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\font-awesome.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\icons.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\larger.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\list.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\mixins.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\path.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\screen-reader.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\stacked.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\less\variables.less" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_animated.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_core.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_icons.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_larger.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_list.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_mixins.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_path.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_stacked.scss" />
+    <Content Include="wwwroot\assets\font-awesome-4.7.0\scss\_variables.scss" />
+    <Content Include="wwwroot\assets\images\searchicon.png" />
+    <Content Include="wwwroot\assets\json\people.json" />
+    <Content Include="wwwroot\css\loader.css" />
+    <Content Include="wwwroot\css\loader.min.css" />
+    <Content Include="wwwroot\css\site - Copy.css" />
+    <Content Include="wwwroot\css\site.css" />
+    <Content Include="wwwroot\css\site.min.css" />
+    <Content Include="wwwroot\css\style.css" />
+    <Content Include="wwwroot\favicon.ico" />
+    <Content Include="wwwroot\images\banner1.svg" />
+    <Content Include="wwwroot\images\banner2.svg" />
+    <Content Include="wwwroot\images\banner3.svg" />
+    <Content Include="wwwroot\images\banner4.svg" />
+    <Content Include="wwwroot\js\app.js" />
+    <Content Include="wwwroot\js\controllers\tableController.js" />
+    <Content Include="wwwroot\js\services\JavaScript.js" />
+    <Content Include="wwwroot\js\services\tableService.js" />
+    <Content Include="wwwroot\js\site.js" />
+    <Content Include="wwwroot\js\site.min.js" />
+    <Content Include="wwwroot\lib\bootstrap\.bower.json" />
+    <Content Include="wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css" />
+    <Content Include="wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map" />
+    <Content Include="wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css" />
+    <Content Include="wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map" />
+    <Content Include="wwwroot\lib\bootstrap\dist\css\bootstrap.css" />
+    <Content Include="wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <Content Include="wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" />
+    <Content Include="wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <Content Include="wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <Content Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <Content Include="wwwroot\lib\bootstrap\dist\js\npm.js" />
+    <Content Include="wwwroot\lib\bootstrap\LICENSE" />
+    <Content Include="wwwroot\lib\jquery-validation-unobtrusive\.bower.json" />
+    <Content Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <Content Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <Content Include="wwwroot\lib\jquery-validation\.bower.json" />
+    <Content Include="wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <Content Include="wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <Content Include="wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <Content Include="wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <Content Include="wwwroot\lib\jquery-validation\LICENSE.md" />
+    <Content Include="wwwroot\lib\jquery\.bower.json" />
+    <Content Include="wwwroot\lib\jquery\dist\jquery.js" />
+    <Content Include="wwwroot\lib\jquery\dist\jquery.min.js" />
+    <Content Include="wwwroot\lib\jquery\dist\jquery.min.map" />
+    <Content Include="wwwroot\lib\jquery\LICENSE.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="1.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.0.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
